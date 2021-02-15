@@ -1,0 +1,13 @@
+working on:
+scanner
+
+todo:
+sql dumper
+
+other:
+keywords bad fix
+better filtering like check (.php? and .php/ exists) done?
+parse filter by user defined regex using config never?
+okeano(https://okeano.com/) both //keywords// and parserdone?
+also https://private.sh/ - https://metager.de/ irrelevant too few results
+proxy support for parser done?

@@ -1,0 +1,13 @@
+dont toy with me NagatoroAIO
+
+https://discord.gg/ZCZmv4xjcE
+
+Nagatoro is a all-in-one tool for vulnerability scanning. It provides a module
+for text utils, another module for generating and translating keywords, another
+one to generate and convert dorks, another module for parsing these dorks
+using various search engines, another one for scanning the found URLs for SQL
+injection vulnerabilities.
+
+This tool is meant for ethical and/or educational usage only. It must be used
+on hosts that you own or have given you clear permission to test their systems.
+The developer cannot be held responsible for anything the software is used for.

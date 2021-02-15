@@ -1,0 +1,4 @@
+#how many pages to search with one single dork
+page-per-dork=5
+#timeout for http requests in seconds
+timeout=5

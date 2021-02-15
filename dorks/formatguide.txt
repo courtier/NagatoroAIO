@@ -1,0 +1,13 @@
+formatting guide
+(DE) -> domain extension (.com, .de, .co etc.)
+(KW) -> keyword
+(PF) -> page format (.php, .htm, .aspx etc.)
+(PT) -> page type (page_id, cat_id, product)
+
+can put anything and it will stay there
+"nagatoroAIO (KW)".(PF)?(PT)= site:(.shop)
+in the above example, only (KW), (PF) and (PT) will be replaced
+
+examples
+(KW).(PF)?(PT)=
+(KW).(PF)?(PT)= site:(DE)
