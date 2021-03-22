@@ -51,7 +51,8 @@ func NanoToMilliStamp() int64 {
 //GenRandomSentence gen sentence
 func GenRandomSentence() string {
 	sentences := []string{"count yo stacks", "purified water in my glass", "eyes low like im 5'8", "these raps show up on the richter",
-		"broke boy, aint broke", "fill up that hollow stomach with my sorrow", "im just gonna much up a little bit man"}
+		"broke boy, aint broke", "fill up that hollow stomach with my sorrow", "im just gonna much up a little bit man",
+		"wutang is for the children", "michael its your birthday today", "thislandis goat", "drippin so pretty"}
 	rand.Seed(time.Now().Unix())
 	return sentences[rand.Intn(len(sentences))]
 }

@@ -23,12 +23,7 @@ func main() {
 	} else {
 		logger.DebugMode = false
 	}
-	logger.LogCustom("<magenta>███╗░░██╗░█████╗░░██████╗░░█████╗░████████╗░█████╗░██████╗░░█████╗░\n" +
-		"████╗░██║██╔══██╗██╔════╝░██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗\n" +
-		"██╔██╗██║███████║██║░░██╗░███████║░░░██║░░░██║░░██║██████╔╝██║░░██║\n" +
-		"██║╚████║██╔══██║██║░░╚██╗██╔══██║░░░██║░░░██║░░██║██╔══██╗██║░░██║\n" +
-		"██║░╚███║██║░░██║╚██████╔╝██║░░██║░░░██║░░░╚█████╔╝██║░░██║╚█████╔╝\n" +
-		"╚═╝░░╚══╝╚═╝░░╚═╝░╚═════╝░╚═╝░░╚═╝░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝░╚════╝░</>")
+	logger.LogCustom("<magenta>Nagatoro - All-in-one tool for vulnerability detection</>")
 	logger.LogCustom("<yellow>" + utils.GenRandomSentence() + "</>")
 	ui.SetTitle("Nagatoro - courtier#5443")
 	utils.LoadConfigToMemory()
